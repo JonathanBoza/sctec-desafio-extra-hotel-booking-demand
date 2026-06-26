@@ -14,4 +14,3 @@ Analisar a base `hotel_bookings.csv`, identificar padrões relacionados ao cance
 - F1 da classe cancelada: 0.7205
 - Recall da classe cancelada: 0.7935
 - ROC AUC: 0.9072
-# sctec-desafio-extra-hotel-booking-demand
