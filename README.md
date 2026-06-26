@@ -1,14 +1,18 @@
 # 📊 Desafio Extra - Hotel Booking Demand
 
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Finalizado-2E8B57)
+
 > Projeto de análise exploratória e modelagem preditiva para estimar cancelamentos de reservas no dataset Hotel Booking Demand.
 
 **Autor:** Jonathan Euzébio Boza
 
-## ✨ Resumo rápido
+## ✨ Visão geral
 
 Este projeto analisa a base [hotel_bookings.csv](hotel_bookings.csv) para identificar padrões ligados ao cancelamento de reservas e construir um modelo preditivo para a variável `is_canceled`.
 
-## 📌 Resultados
+## 🎯 Destaques
 
 | Métrica | Valor |
 | --- | --- |
@@ -17,19 +21,19 @@ Este projeto analisa a base [hotel_bookings.csv](hotel_bookings.csv) para identi
 | Recall da classe cancelada | 0.7935 |
 | ROC AUC | 0.9072 |
 
-## 🧩 Arquivos do projeto
+## 🧱 Estrutura do projeto
 
 - [Desafio Extra - Hotel Booking Demand.ipynb](Desafio%20-%20Hotel%20Booking%20Demand.ipynb): notebook com preparação dos dados, EDA, modelagem e avaliação.
 - [hotel_bookings.csv](hotel_bookings.csv): base usada no projeto.
 - [README.md](README.md): visão geral da solução e resultados.
 
-## 🛠️ O que foi feito
+## 🛠️ Fluxo aplicado
 
-- Compreensão da base e definição da variável-alvo.
-- Limpeza e preparação dos dados.
-- Análise exploratória com foco em cancelamento, tipo de hotel, lead time e tipo de depósito.
-- Modelagem preditiva com pipeline de pré-processamento e classificação.
-- Ajuste de limiar para melhorar a detecção da classe cancelada.
+1. Compreensão da base e definição da variável-alvo.
+2. Limpeza e preparação dos dados.
+3. Análise exploratória com foco em cancelamento, tipo de hotel, lead time e tipo de depósito.
+4. Modelagem preditiva com pipeline de pré-processamento e classificação.
+5. Ajuste de limiar para melhorar a detecção da classe cancelada.
 
 ## 🚀 Como executar
 
