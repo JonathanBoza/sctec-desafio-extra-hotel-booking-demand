@@ -27,6 +27,16 @@ Este projeto analisa a base [hotel_bookings.csv](hotel_bookings.csv) para identi
 - [hotel_bookings.csv](hotel_bookings.csv): base usada no projeto.
 - [README.md](README.md): visão geral da solução e resultados.
 
+## 🧪 Tecnologias usadas
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
 ## 🛠️ Fluxo aplicado
 
 1. Compreensão da base e definição da variável-alvo.
@@ -44,3 +54,7 @@ Este projeto analisa a base [hotel_bookings.csv](hotel_bookings.csv) para identi
 ## ✅ Resultado final
 
 O modelo final atingiu um bom equilíbrio entre desempenho geral e detecção de cancelamentos, com foco em um problema real de classificação binária desbalanceada.
+
+## 📫 Entrega
+
+Projeto organizado para envio no formato compactado com notebook, base de dados e documentação.
